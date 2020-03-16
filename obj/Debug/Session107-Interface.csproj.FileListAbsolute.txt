@@ -1,0 +1,7 @@
+C:\Users\nazmu\source\repos\Session107-Interface\Session107-Interface\obj\Debug\Session107-Interface.csprojAssemblyReference.cache
+C:\Users\nazmu\source\repos\Session107-Interface\Session107-Interface\obj\Debug\Session107-Interface.csproj.CoreCompileInputs.cache
+C:\Users\nazmu\source\repos\Session107-Interface\Session107-Interface\bin\Debug\Session107-Interface.exe.config
+C:\Users\nazmu\source\repos\Session107-Interface\Session107-Interface\bin\Debug\Session107-Interface.exe
+C:\Users\nazmu\source\repos\Session107-Interface\Session107-Interface\bin\Debug\Session107-Interface.pdb
+C:\Users\nazmu\source\repos\Session107-Interface\Session107-Interface\obj\Debug\Session107-Interface.exe
+C:\Users\nazmu\source\repos\Session107-Interface\Session107-Interface\obj\Debug\Session107-Interface.pdb
